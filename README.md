@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @luckystew
+- 🌱 I’m currently learning Java, C#, Kotlin, C and C++
+- 📫 How to reach me: bilymarky1@gmail.com
